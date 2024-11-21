@@ -1,1 +1,1 @@
-docker pull lvxj11/erpnext
+docker pull lvxj11/erpnext:latest
